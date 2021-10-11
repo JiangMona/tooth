@@ -1,0 +1,114 @@
+			body{
+                background-color:#EDEEC9;
+                font-family:Georgia, Arial;
+                font-size:25px;
+            }
+  
+            
+            h1{
+                text-align:center;
+                font-size:100px;
+                background-color:#A1CCA5;
+                padding:3px;
+                color:#111d13;
+            }
+            .bold{
+                font-weight: bold;
+            }
+            h2{
+                text-align:center;
+                font-size:65px;
+                background-color:#BFD8BD;
+            }
+            h3{
+                font-size:45px;
+                background-color:#BFD8BD;
+                text-align:center;
+            }
+            
+            p{
+                font-size:25px;
+         
+            }
+        
+            table{
+                border-collapse: collapse;
+                border: 1px solid black;
+                margin-left:auto;
+                margin-right:auto;
+                width:800px;
+                margin-top:50px;
+            }
+            
+            table,th,td{
+                border:1px solid black;
+                border-collapse:collapse;
+                padding :20px;
+                font-size:20px;
+                text-align:center;
+            }
+            table a{
+                color:#060342;
+                font-style:italic;
+             
+            }
+            a{
+                color:#112115;
+            }
+            a:hover { 
+                background-color: yellow;
+            }
+            a:visited {
+            color: #572c63;
+            background-color: transparent;
+            text-decoration: none;
+            }
+            p{
+                font-size:20px;
+            }
+            td{
+                font-size:20px;
+            }
+            .odd{
+                background-color: #b8c4e3;
+            }
+            .even{
+                background-color: #d5e5f0;
+            }
+            #header{
+                background-color: #6d7ead;
+            }
+            #description{
+                margin-top:1px;
+            }
+            .list{
+                text-align:left;
+            }
+            .Rock{
+                padding:2%;
+                border-style:solid;
+                border-color:#A1CCA5;
+
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 50%;
+            }
+            #contents{
+                font-size:30px;
+                text-align:left;
+            }
+            .return{
+                font-size:20px;
+                font-style:italic;
+                color:#265237;
+            }
+            .shapes{
+                font-size:30px;
+                font-weight:bold;
+            }
+            .validator{
+                border-style:dotted;
+                border-color:#265237;
+                margin:2%;
+            }
